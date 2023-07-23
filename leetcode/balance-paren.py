@@ -9,7 +9,6 @@ def checkparen(str):
     myStack=[]
     for c in str:
         if c in parens:
-            parens.k
             expectChar=parens[c]
             myStack.append(expectChar)
         elif c in closedParen:

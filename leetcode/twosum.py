@@ -37,7 +37,7 @@ class Solution:
 
 
 s=Solution()
-#print(s.twoSum([2,7,11,15], 9))
+print(s.twoSum([2,7,11,15], 9))
 #print(s.twoSum([3,2,4],4))
 #print(s.twoSum([1,2,3,1,2,3],6))
-print(s.threeSum([1,2,3,4,5,6], 13 ))
+#print(s.threeSum([1,2,3,4,5,6], 13 ))
